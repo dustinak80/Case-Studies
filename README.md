@@ -1,4 +1,4 @@
-# Cast-Studies
+# Case-Studies
 Topics in Mathematics - Spring 2020
 
 1) Each Project will be in a new folder.
