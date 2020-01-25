@@ -8,7 +8,7 @@ Professor Given Documents:
 3) labels_train_original.txt
 4) labels_valid_original.txt
 5) Task Description.txt
-6) 
+6) NLP - Econ 9-12-2018.py
 
 Documents from Me:
 1) data_train_art.txt  -- Periods at the end of each article
