@@ -14,6 +14,7 @@ Student Provided Documents:
 1) data_train_art.txt  -- Periods at the end of each article
 2) labels_train_numbers.txt  --  The labels converted to digits
 3) hw.py  -- Spyder code for quick original analysis (No NLTK)
+4) hw_NLTK.py -- Spyder code using NLTK, but no sentiment package (worse than hw.py)
 
 ###########################################################################
 Task Description 
