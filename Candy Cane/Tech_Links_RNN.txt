@@ -1,0 +1,24 @@
+Airline example using Keras on Python 3.5 - All Data Augmentation methods available
+https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+
+Installing TensorFlow Theano and Keras
+https://medium.com/@pushkarmandot/installing-tensorflow-theano-and-keras-in-spyder-84de7eb0f0df
+
+Basic RNN configuration using KERAS
+https://github.com/keras-team/keras/issues/9201
+
+brief technical description of why RNN are so effective
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+overview of various models and approaches
+https://github.com/igormq/asr-study/blob/master/core/models.py
+
+conceptual framework but using Pytorch (do not code just read explanation)
+http://www.fast.ai/
+
+forecasting problem to replicate
+https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
+
+Classification models with a few examples
+https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a
+
